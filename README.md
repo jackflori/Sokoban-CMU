@@ -1,5 +1,5 @@
 # Sokoban
-Famous puzzle game with some fun additions. 
+Famous puzzle game clone with some fun additions. 
 
 Utilized CMU Graphics’ model-view-controller framework. 
 
