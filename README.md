@@ -2,6 +2,7 @@
 Famous puzzle game with some fun additions. 
 
 Utilized CMU Graphics’ model-view-controller framework. 
+
 Feature List:
 - Main Menu, Win/Lose Screen
 - Basic Sokoban Controls/Rules
