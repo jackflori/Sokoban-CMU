@@ -1,6 +1,6 @@
-# Sokoban (CMU)
+# Sokoban
 Famous puzzle game clone with some fun additions. 
 
 Utilized CMU Graphics’ model-view-controller framework. 
 
-Play here: https://academy.cs.cmu.edu/sharing/rosyBrownDog169874
+[Play Now](https://academy.cs.cmu.edu/sharing/rosyBrownDog169874)
