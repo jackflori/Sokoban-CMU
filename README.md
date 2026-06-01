@@ -3,12 +3,4 @@ Famous puzzle game clone with some fun additions.
 
 Utilized CMU Graphics’ model-view-controller framework. 
 
-Feature List:
-- Main Menu, Win/Lose Screen
-- Basic Sokoban Controls/Rules
-- 3 Levels of Increasing Difficulty
-- Reset Level with Enter
-- Toggle Hard/Timed Mode
-- Move Counter Displayed After Win
-- Looped Background Music with Play/Pause Button
-- Level Completion Sound Effect
+Play here: https://academy.cs.cmu.edu/sharing/rosyBrownDog169874
