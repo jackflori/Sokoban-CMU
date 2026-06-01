@@ -1,4 +1,4 @@
-# Sokoban
+# Sokoban (CMU)
 Famous puzzle game clone with some fun additions. 
 
 Utilized CMU Graphics’ model-view-controller framework. 
